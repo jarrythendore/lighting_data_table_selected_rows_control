@@ -1,4 +1,7 @@
-# public
+# Lightning data table selected rows control
+source link
+https://salesforce.stackexchange.com/questions/273550/how-to-get-selected-row-data-from-lightning-datatable-in-salesforce-lwc
+
 Generic components
 
 Currently there are 2 generic components (PFB). Very soon I will add DEMO components which will show how to use them.
